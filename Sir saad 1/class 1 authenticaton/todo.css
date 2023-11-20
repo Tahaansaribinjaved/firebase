@@ -1,0 +1,53 @@
+/* .ttt{
+    background-color: aqua;
+} */  
+
+.send:focus{
+    background-color: white !important;
+    color: green !important;
+
+}
+.deleteall:focus{ 
+    background-color: white !important;
+    color: red !important;
+
+}
+.ttt{
+    text-align: left;
+    width: auto;
+     /* border: 2px rgb(0, 0, 0) dotted; 
+     /* border-radius: 10%; */
+     padding: 2px;
+
+}
+.abc{
+    list-style: none;
+} 
+#font{
+    color: white;
+    font-family:Georgia, serif ;
+}
+#h1div{
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+}
+.aaa{
+    margin: 10px !important;
+    /* align-self: self-end ; */
+}
+.bdiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    flex-wrap: wrap;
+    /* margin-right: 10px; */
+}
+ .span{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: end;
+}  
